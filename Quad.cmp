@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 8-5-2014 18:35:12
+
+BeginCmp
+TimeStamp = /5341B009;
+Reference = adaprog1;
+ValeurCmp = ADAPROG_ATMEGA32U4;
+IdModule  = TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /536BB363;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A844F;
+Reference = C2;
+ValeurCmp = 22pF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A845E;
+Reference = C3;
+ValeurCmp = 22pF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A8A56;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5341B04F;
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = USB_MINI_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A8DD1;
+Reference = CON2;
+ValeurCmp = AVR-ISP-6;
+IdModule  = AVR-ISP-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /536BA63C;
+Reference = P1;
+ValeurCmp = MPU6050;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /536BAB39;
+Reference = P2;
+ValeurCmp = MPU6050;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /536BAD3A;
+Reference = P3;
+ValeurCmp = nRF24l01;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /536BBB5D;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A8832;
+Reference = R1;
+ValeurCmp = 22;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A8841;
+Reference = R2;
+ValeurCmp = 22;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536BB622;
+Reference = R3;
+ValeurCmp = 100;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536BB631;
+Reference = R4;
+ValeurCmp = 100;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /536B9977;
+Reference = U1;
+ValeurCmp = TC1017;
+IdModule  = SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /536A8438;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = crystal_FA238-TSX3225;
+EndCmp
+
+EndListe
